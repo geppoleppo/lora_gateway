@@ -9,7 +9,7 @@
 
 libloragw/inc/config.h
 
-libloragw/test_*
+
 
 util_pkt_logger/util_pkt_logger
 util_spi_stress/util_spi_stress
